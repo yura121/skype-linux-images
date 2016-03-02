@@ -10,7 +10,7 @@
 
 ##### Как установить расширение?
 
-1. Скачать и распаковать архив расширения
+1. [Скачать](https://github.com/yura121/skype-linux-images/releases) и распаковать архив расширения
 2. Открыть хром и перейти в раздел со списком расширений
 3. Включить **"Режим разработчика"**
 4. Нажать **"Загрузить распакованное расширение"**
@@ -28,7 +28,7 @@ logged previously.
 
 ##### How to install this extension?
 
-1. Download and unzip the archive of the extension
+1. [Download](https://github.com/yura121/skype-linux-images/releases) and unzip the archive of the extension
 2. Open Chrome and go to the section with the list of extensions
 3. Enable **"Developer mode"**
 4. Click **"Load unpacked extension"**
