@@ -47,6 +47,10 @@ function redirect(details) {
         [
             'https://login.skype.com/login/sso\\?go=xmmfallback\\?pic=(.*)',
             'https://api.asm.skype.com/v1/objects/$1/views/imgpsh_fullsize'
+        ],
+        [
+            'https://login.skype.com/login/sso\\?go=webclient\.xmm\\&pic=(.*)',
+            'https://api.asm.skype.com/v1/objects/$1/views/imgpsh_fullsize'
         ]
     ];
     
